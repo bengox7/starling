@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
