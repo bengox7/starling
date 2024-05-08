@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
